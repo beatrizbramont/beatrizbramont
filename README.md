@@ -1,6 +1,6 @@
 ## Olá, eu sou Beatriz Bramont 👩‍💻
 
-🔭 **Atualmente estou estudando**: Análise e Desenvolvimento de Sistemas (3º semestre)  
+🔭 **Atualmente estou estudando**: Análise e Desenvolvimento de Sistemas (4º semestre)  
 🌱 **Tenho interesse em**: Desenvolvimento **front-end**, **back-end** e **SQL**  
 👯 **Buscando colaborar em**: Projetos de desenvolvimento de software e sistemas  
 🤔 **Desafios que estou enfrentando**: Aprimorar meus conhecimentos em **SQL** e integração entre front-end e back-end  
